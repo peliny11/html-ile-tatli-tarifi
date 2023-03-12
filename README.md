@@ -1,3 +1,3 @@
-# html-ile-tatli-tarifi-
-Bu çalışmam bildiğim HTML bilgilerini kullanarak tatlı tarifi yazma üzerine oldu.
-www.patika.dev/tr
+# Dessert Recipe with HTML
+My third homework in Kodluyoruz-Patika Dev lessons.
+
